@@ -15,7 +15,8 @@
 
 ### Set Up Git and GitHub
 <p>Download git and check it's version</p>
-![alt text](https://github.com/lovelexsa/AWS-SBG_Nextwork/blob/main/Documentation/3_check-git-version.png "check git version")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Install Github Desktop
 <p>Here, you can configure repositories locally or publish and merge branches. Pull, push, and commit changes on your projects</p>
