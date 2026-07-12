@@ -28,10 +28,10 @@
 #### Traditional Databases
 - Hosted and maintained on your own device.
 - Limited by capabilities of your own hardware.
-<li>Accessed within a local network.</li>
+- Accessed within a local network.
 
-<p>Cloud Database</p>
-<li>Hosted and maintained by a cloud service provider.</li>
+#### Cloud Database
+- Hosted and maintained by a cloud service provider.
 - Scales easily.
 - Accessed over the internet.
 - Security, maintenance, and backup handled by cloud service provider.
