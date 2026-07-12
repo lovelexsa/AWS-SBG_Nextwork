@@ -1,6 +1,6 @@
 # Visualize a Relational Database
 <p>Learn Github and Database Fundamentals</p>
----
+
 
 ## Learn Git Fundamentals
 ### What is GitHub?
