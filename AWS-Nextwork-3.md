@@ -20,22 +20,23 @@
 <p>Here, you can configure repositories locally or publish and merge branches. Pull, push, and commit changes on your projects</p>
 
 <br>
+
 ---
 
 ## Learn Relational Database 
 ### Traditional VS Cloud Databases
 <p>Traditional Databases</p>
-- Hosted and maintained on your own device.
-- Limited by capabilities of your own hardware.
-- Accessed within a local network.
+<li>Hosted and maintained on your own device.</li>
+<li>Limited by capabilities of your own hardware.</li>
+<li>Accessed within a local network.</li>
 
 <p>Cloud Database</p>
-- Hosted and maintained by a cloud service provider.
+<li>Hosted and maintained by a cloud service provider.</li>
 - Scales easily.
 - Accessed over the internet.
 - Security, maintenance, and backup handled by cloud service provider.
 
 ### Relational Databases
-< p> These store data in tables. It organizes and connect related information using relationships through keys. It improves consistency, while ensuring data is easier to manage.</p>
+<p>These store data in tables. It organizes and connect related information using relationships through keys. It improves consistency, while ensuring data is easier to manage.</p>
 
 
