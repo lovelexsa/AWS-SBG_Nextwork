@@ -14,4 +14,4 @@
 <br>
 
 ### Set Up Git and GitHub
-![check git version)(https://github.com/lovelexsa/AWS-SBG_Nextwork/blob/main/Documentation/3_check-git-version.png?raw=true)
+img src="https://github.com/lovelexsa/AWS-SBG_Nextwork/blob/main/Documentation/3_check-git-version.png?raw=true"
