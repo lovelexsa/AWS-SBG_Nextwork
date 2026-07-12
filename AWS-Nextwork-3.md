@@ -20,6 +20,8 @@
 <p>Here, you can configure repositories locally or publish and merge branches. Pull, push, and commit changes on your projects</p>
 
 <br>
+---
+
 ## Learn Relational Database 
 ### Traditional VS Cloud Databases
 <p>Traditional Databases</p>
