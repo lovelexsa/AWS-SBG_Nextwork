@@ -25,9 +25,9 @@
 
 ## Learn Relational Database 
 ### Traditional VS Cloud Databases
-<p>Traditional Databases</p>
-<li>Hosted and maintained on your own device.</li>
-<li>Limited by capabilities of your own hardware.</li>
+####Traditional Databases
+- Hosted and maintained on your own device.
+- Limited by capabilities of your own hardware.
 <li>Accessed within a local network.</li>
 
 <p>Cloud Database</p>
