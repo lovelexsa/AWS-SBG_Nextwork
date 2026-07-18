@@ -1,6 +1,5 @@
 # Visualize a Relational Database
-<p>Learn Github and Database Fundamentals</p>
-
+by Love Alexa M. Lazo | July 2026
 <br>
 
 ---
