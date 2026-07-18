@@ -1,8 +1,6 @@
 # Visualize a Relational Database
 by Love Alexa M. Lazo | July 2026
 <br>
-
----
 ## Learn Git Fundamentals
 ### What is GitHub?
 - Stores project online
